@@ -1,1 +1,1 @@
-#  the C Programming homework
+#  The C Programming homework
